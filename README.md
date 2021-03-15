@@ -2,5 +2,5 @@
  
  # Repositório para alocar exercícios durante o período de graduação.
 
- <img src="crzsulead.png" alt="Cruzeiro do Sul" width=60 height=40>
+ <img src="C:\Users\Frank G. Silva\Documents\MeusProjetos\cruzeiro-do-sul-ead\images\crzsulead.png" alt="Cruzeiro do Sul" width=60 height=40>
 
